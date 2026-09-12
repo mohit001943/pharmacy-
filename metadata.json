@@ -1,0 +1,6 @@
+{
+  "name": "Smart Pharmacy Inventory System",
+  "description": "Smart medicine inventory tracking, low-stock & expiry alerts, sales tracking, ML demand forecasting, and smart reorder recommendation system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
